@@ -14,6 +14,4 @@ In this repository includes other resources such as:
 
 * **Presentation Template** - a PowerPoint template (.PPTX file) to assist with the final presentation design
 
-* **Solution Template** - the format for the prediction model for submission and automatic scoring for accuracy and uncertainty model goodness
-
 * **Hackathon Mixer Slides**- slides shown at the student mixer with summary of the Hackathon 
