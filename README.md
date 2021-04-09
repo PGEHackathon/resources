@@ -8,4 +8,10 @@
 
 ### Organization and Student Engagement: Gabby Banales and Sara Hernando
 
-In this repository we will include other resources such as the slides from the student mixer event, team lists etc.
+In this repository includes other resources such as:
+
+* **Workflow Template** - a Python Notebook template (.ipynb file) to assist with the workflow design for readable code etc.
+
+* **Presentation Template** - a PowerPoint template (.PPTX file) to assist with the final presentation design
+
+* **Hackathon Mixer Slides**- slides shown at the student mixer with summary of the Hackathon 
