@@ -1,12 +1,12 @@
-# Energy A.I. Hackathon 2021 Resources
+# Energy A.I. Hackathon 2022 Resources
 
 ## Hosts: [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy) and [Prof. John Foster](https://twitter.com/johntfoster)
 
-### Architects: [Honggen Jo](https://twitter.com/HonggeunJ) and Mingyuan Yang
+### Architects: [Wen Pan](https://www.linkedin.com/in/wen-pan/) and [Elnara Rustamzade](https://www.linkedin.com/in/elnara-rustamzade-779396162/?originalSubdomain=az)
 
 ### Sponsor: [Prof. Jon Olson](https://twitter.com/ProfJEOlson), and the [Hildebrand Department of Petroleum and Geosystems Engineering](https://twitter.com/UT_PGE)
 
-### Organization and Student Engagement: Gabby Banales and Sara Hernando
+### Organization and Student Engagement: Gabby Banales, Sara Hernando and Tracey Wilson
 
 In this repository includes other resources such as:
 
@@ -14,4 +14,6 @@ In this repository includes other resources such as:
 
 * **Presentation Template** - a PowerPoint template (.PPTX file) to assist with the final presentation design
 
-* **Hackathon Mixer Slides**- slides shown at the student mixer with summary of the Hackathon 
+* **Solution Template** - a comma delimited ASCII file (.csv file) template for submitting the hackathon solution
+
+* **Hackathon Introduction Slides**- slides shown at the student mixer with summary of the Hackathon 
