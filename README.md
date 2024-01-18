@@ -1,18 +1,18 @@
-# Energy A.I. Hackathon 2023
+# Energy A.I. Hackathon 2024
 
-## Hosts: [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy) and [Prof. John T. Foster](https://twitter.com/johntfoster)
+## Hosts: [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy) and [Prof. John Foster](https://twitter.com/johntfoster)
 
-### Architects: [Elnara Rustamzade](https://www.linkedin.com/in/elnara-rustamzade-779396162/) and [Ruoyu Wang](www.linkedin.com/in/ruoyu-wang1)
+### Architects: [Elnara Rustamzade](https://www.linkedin.com/in/elnara-rustamzade-779396162/) and [Fehmi Ozbayrak](https://www.linkedin.com/in/fozbayrak)
 
-### Home Department Chair and Hackathon Suporter: [Prof. Jon Olson](https://twitter.com/ProfJEOlson)
+### Home Department Chair and Hackathon Suporter: [Prof. Matt Balhoff](https://www.linkedin.com/in/matthew-balhoff-4297b247)
 
 ### Sponsors: [ComboCurve Inc.](https://www.combocurve.com/), [Pioneer Oil Company Inc.](https://pioneeroil.net/), [Chevron](https://www.chevron.com) and [Baker Hughes](https://www.bakerhughes.com/)
 
-### Coordination and Student Engagement: Gabby Banales, Trevor Oxley, Samantha Rabinowitz and Stacia Miller
+### Coordination and Student Engagement: Rowan Halliday, Heba Abdel-Rahim, Gabby Banales
 
 ___
 
-### Energy A.I. Hackathon 2023 Resources 
+### Energy A.I. Hackathon 2024 Resources 
 
 In this repository includes other resources such as:
 
