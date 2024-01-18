@@ -1,6 +1,6 @@
 # Energy A.I. Hackathon 2024
 
-## Hosts: [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy) and [Prof. John Foster](https://twitter.com/johntfoster)
+## Hosts: [Prof. John Foster](https://twitter.com/johntfoster) and [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy)
 
 ### Architects: [Elnara Rustamzade](https://www.linkedin.com/in/elnara-rustamzade-779396162/) and [Fehmi Ozbayrak](https://www.linkedin.com/in/fozbayrak)
 
